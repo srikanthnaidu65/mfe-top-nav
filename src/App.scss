@@ -1,0 +1,37 @@
+.top-nav-container {
+  background-color: #0071dc;
+  color: white;
+
+  .display-inline {
+    display: inline-block;
+    display: flex;
+    cursor: pointer;
+  }
+
+  .search-container {
+    background-color: white;
+    width: 40%;
+    border-radius: 15px;
+    margin-left: 5%;
+  }
+  .mr-10 {
+    margin-right: 10px;
+  }
+
+  .ml-3p {
+    margin-left: 3%;
+  }
+
+  .ml-10 {
+    margin-left: 10px;
+  }
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
